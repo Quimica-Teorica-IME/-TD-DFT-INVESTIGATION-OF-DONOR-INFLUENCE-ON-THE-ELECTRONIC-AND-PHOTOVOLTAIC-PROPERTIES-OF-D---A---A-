@@ -1,0 +1,13 @@
+plot_type=1
+plot_dpi=600
+cmap='Blues'
+fsize=14
+output_format='png'
+sscale=True
+vmin=0.0
+vmax=0.67118
+axis=True
+ticks=True
+cticks=False
+grid=True
+cbar=False
